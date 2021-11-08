@@ -4,7 +4,8 @@
 	"description": "",
 	"main": "index.js",
 	"scripts": {
-		"clone:all": "bash ./scripts/clone-all.sh"
+		"clone": "bash ./scripts/clone.sh",
+		"dev": "node ./scripts/start.js"
 	},
 	"repository": {
 		"type": "git",
