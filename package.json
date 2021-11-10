@@ -5,6 +5,7 @@
 	"main": "index.js",
 	"scripts": {
 		"clone": "bash ./scripts/clone.sh",
+		"pull": "bash ./scripts/pull.sh",
 		"install": "node ./scripts/install.js yarn",
 		"dev": "node ./scripts/start.js",
 		"build": "node ./scripts/build.js"
