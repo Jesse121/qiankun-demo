@@ -7,7 +7,7 @@
 		"clone": "bash ./scripts/clone.sh",
 		"pull": "bash ./scripts/pull.sh",
 		"install": "node ./scripts/install.js yarn",
-		"dev": "node ./scripts/start.js",
+		"serve": "node ./scripts/serve.js",
 		"build": "node ./scripts/build.js"
 	},
 	"repository": {

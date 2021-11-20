@@ -3,10 +3,10 @@
 	"tasks": [
 		{
 			"type": "npm",
-			"script": "dev",
+			"script": "serve",
 			"problemMatcher": [],
-			"label": "npm: dev",
-			"detail": "node ./scripts/start.js",
+			"label": "npm: serve",
+			"detail": "node ./scripts/serve.js",
 			"group": {
 				"kind": "build",
 				"isDefault": true
