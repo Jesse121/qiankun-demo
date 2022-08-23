@@ -1,26 +1,24 @@
 {
-	"name": "qiankun-demo",
-	"version": "1.0.0",
-	"description": "",
-	"main": "index.js",
-	"scripts": {
-		"clone": "bash ./scripts/clone.sh",
-		"pull": "bash ./scripts/pull.sh",
-		"install": "node ./scripts/install.js yarn",
-		"serve": "node ./scripts/serve.js",
-		"build": "node ./scripts/build.js"
-	},
-	"repository": {
-		"type": "git",
-		"url": "git+https://github.com/Jesse121/qiankun-demo.git"
-	},
-	"keywords": [
-		"qiankun"
-	],
-	"author": "Jesse",
-	"license": "ISC",
-	"bugs": {
-		"url": "https://github.com/Jesse121/qiankun-demo/issues"
-	},
-	"homepage": "https://github.com/Jesse121/qiankun-demo#readme"
+  "name": "qiankun-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "install": "node ./scripts/install.js yarn",
+    "serve": "node ./scripts/serve.js",
+    "build": "node ./scripts/build.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jesse121/qiankun-demo.git"
+  },
+  "keywords": [
+    "qiankun"
+  ],
+  "author": "Jesse",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jesse121/qiankun-demo/issues"
+  },
+  "homepage": "https://github.com/Jesse121/qiankun-demo#readme"
 }
